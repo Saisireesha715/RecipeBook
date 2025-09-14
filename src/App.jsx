@@ -12,19 +12,19 @@ function App() {
   
 
   return (
-    // <div className="flex flex-col min-h-screen">
-    //  <Navbar/>
-    //  <Hero/>
-    //  <Cards/>
-    //  <About/>
-    //  <Reviews/>
+    <div className="flex flex-col min-h-screen">
+     <Navbar/>
+     <Hero/>
+     <Cards/>
+     <About/>
+     <Reviews/>
 
-    //  <Footer/>
+     <Footer/>
 
 
-    // </div>
+    </div>
 
-    <About/>
+  
 
     
 
